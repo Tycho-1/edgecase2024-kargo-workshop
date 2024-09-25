@@ -2,7 +2,7 @@
 
 ## Steps for the workshop
 
-1. Go to [this repository](https://github.com/fullstaq-labs/edgecase2024-kargo-demo.git) and fork it.\
+1. Go to [this repository (Click here!](https://github.com/fullstaq-labs/edgecase2024-kargo-demo.git) and fork it.\
    Copy the URL (it should end with **.git**) of this forked repo, as you'll need it in step 4.
 
 2. Start the dev container, which can be done in 2 ways:
@@ -17,6 +17,8 @@
      ```
      Open the folder where you've cloned the repo locally in Visual Studio Code and follow the instructions from the image below.\
      ![instructions local vscode](./docs/local-vscode.gif)
+     > [!NOTE]
+     > Don't forget to stop and delete your Codespace afterwards!
    * Go to [this Repo](https://github.com/fullstaq-labs/edgecase2024-kargo-workshop) in GitHub and open Codespaces (follow the instructions from the image below).\
      ![instructions remote vscode](./docs/remote-vscode.gif)
 
