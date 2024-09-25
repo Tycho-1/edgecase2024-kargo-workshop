@@ -17,8 +17,8 @@
      ```
      Open the folder where you've cloned the repo locally in Visual Studio Code and follow the instructions from the image below.\
      ![instructions local vscode](./docs/local-vscode.gif)
-     > [!NOTE]
-     > Don't forget to stop and delete your Codespace afterwards!
+> [!NOTE]
+> Don't forget to stop and delete your Codespace afterwards!
    * Go to [this Repo](https://github.com/fullstaq-labs/edgecase2024-kargo-workshop) in GitHub and open Codespaces (follow the instructions from the image below).\
      ![instructions remote vscode](./docs/remote-vscode.gif)
 
